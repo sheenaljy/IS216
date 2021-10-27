@@ -18,7 +18,7 @@ nav {
   font-weight: bold;
 }
 
-.nav-link-text{
+.nav-link-text {
   color: #5B2601 !important;
   font-weight: bold;
 }
@@ -98,7 +98,7 @@ li {
   border-top-right-radius: 10px;
 }
 
-#home-carousel-msg {
+/* #home-carousel-msg {
   color: #5b2601;
   text-align: center;
   font-size: 48px;
@@ -119,5 +119,10 @@ li {
 
 .carousel-item img {
   height: 280px;
-}
+} */
+
+
+
+
+
 /*# sourceMappingURL=index.css.map */
